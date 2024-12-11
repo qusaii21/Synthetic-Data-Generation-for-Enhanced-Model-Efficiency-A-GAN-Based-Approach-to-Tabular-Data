@@ -1,0 +1,2 @@
+# Synthetic-Data-Generation-for-Enhanced-Model-Efficiency-A-GAN-Based-Approach-to-Tabular-Data
+"Synthetic Data Generation for Enhanced Model Efficiency" uses Conditional Tabular GANs (CTGAN) to create realistic synthetic datasets. It addresses issues like data scarcity, privacy concerns, and class imbalance, improving machine learning model performance in healthcare, finance, and cybersecurity while maintaining key statistical properties.
